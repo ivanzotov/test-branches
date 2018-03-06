@@ -1,4 +1,4 @@
 *
-!./.gitignore
-!./.keep
-!./build
+!.gitignore
+!.keep
+!build
